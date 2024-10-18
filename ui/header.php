@@ -12,14 +12,16 @@
 
 <body>
     <header>
+        <div class="container">
         <h1>CATALOGO AMS</h1>
-        <nav>
-            <ul>
-                <li><a href="#">Inicio</a></li>
-                <li><a href="#">Catalogo</a></li>
-                <li><a href="#">Contato</a></li>
-            </ul>
-        </nav>
+            <nav>
+                <ul>
+                    <li><a href="#">Inicio</a></li>
+                    <li><a href="#">Catalogo</a></li>
+                    <li><a href="#">Contato</a></li>
+                </ul>
+            </nav>
+        </div>
     </header>
 </body>
 
