@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: #454545;
+}
+
+nav ul{
+    list-style: none; /* Remove as bolinhas */
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+}
