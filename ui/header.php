@@ -9,7 +9,14 @@
 
 <body>
     <header>
-        <h1>CATALOGO</h1>
+        <h1>CATALOGO AMS</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Inicio</a></li>
+                <li><a href="#">Catalogo</a></li>
+                <li><a href="#">Contato</a></li>
+            </ul>
+        </nav>
     </header>
 </body>
 
